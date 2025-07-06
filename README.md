@@ -35,3 +35,4 @@ This tool serves as a practical demonstration of neural style transfer, allowing
 The script is tailored for use in Google Colab, allowing users to easily upload their own content and style images directly within the notebook environment.
 
 # **OUTPUT**:
+![Image](https://github.com/user-attachments/assets/c4bb07e7-c13a-40d0-ba5f-5eb812ea2372)
